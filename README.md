@@ -90,21 +90,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ---
 
-## 👨‍💻 Module Ownership & Team
-
-This project was developed collaboratively with specific module ownership:
-
-| Team Member | Module Responsibility |
-| :--- | :--- |
-| **Rivi** | Trip Booking Management |
-| **Devindi** | Vehicle Assignment System |
-| **Kanishka** | Guide Scheduling System |
-| **Illham** | Customer Feedback Collection |
-| **Thisul** | Vehicle Registration & Management |
-| **Praveen** | Payment Tracking & Approval |
-
----
-
 ## 🎯 Learning Outcomes
 
 This project served as a practical application of:
